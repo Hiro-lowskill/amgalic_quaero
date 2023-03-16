@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.amgalic.app-mergeReleaseResources-32:/layout/activity_main.xml",
+        "source": "com.example.amgalic.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.amgalic.app-mergeReleaseResources-32:/layout/activity_splash.xml",
+        "source": "com.example.amgalic.app-main-34:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.amgalic.app-mergeReleaseResources-32:/layout/activity_upload_photo.xml",
+        "source": "com.example.amgalic.app-main-34:/layout/activity_upload_photo.xml"
+    },
+    {
+        "merged": "com.example.amgalic.app-mergeReleaseResources-32:/layout/activity_read.xml",
+        "source": "com.example.amgalic.app-main-34:/layout/activity_read.xml"
+    },
+    {
+        "merged": "com.example.amgalic.app-mergeReleaseResources-32:/layout/activity_show.xml",
+        "source": "com.example.amgalic.app-main-34:/layout/activity_show.xml"
+    },
+    {
+        "merged": "com.example.amgalic.app-mergeReleaseResources-32:/layout/activity_login.xml",
+        "source": "com.example.amgalic.app-main-34:/layout/activity_login.xml"
+    }
+]

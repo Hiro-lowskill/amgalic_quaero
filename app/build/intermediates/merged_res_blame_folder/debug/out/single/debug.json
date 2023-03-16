@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_m5.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_m5.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_forgot.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_forgot.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_background.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_sgn_ed.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\sgn_ed.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_back.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_back.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_asd2.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\asd2.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_sport.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\sport.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_pro2.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_pro2.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_notifications.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\notifications.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\layout_activity_read.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\layout\\activity_read.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_background_splash.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\background_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_m1.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_m1.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_m6.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_m6.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_favorite.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_music.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\music.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_reclama.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\reclama.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_m2.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_m2.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_tri_1.jpeg.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\tri_1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\layout_activity_panorama.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\layout\\activity_panorama.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_mest.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\mest.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_cafe.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\cafe.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_kk2.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_kk2.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_filter.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\filter.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_qwe.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\qwe.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.amgalic.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.example.amgalic.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_m3.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_m3.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_asd.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\asd.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_sgnin.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_sgnin.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_your.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\your.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_map.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_gl1.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_gl1.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\layout_activity_upload_photo.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\layout\\activity_upload_photo.xml"
+    },
+    {
+        "merged": "com.example.amgalic.app-merged_res-35:/layout_activity_upload_photo.xml.flat",
+        "source": "com.example.amgalic.app-main-37:/layout/activity_upload_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_popular.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\popular.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_qweasd.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_qweasd.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_search.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_popular_yslug.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_popular_yslug.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\font_montserrat_subrayada.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\font\\montserrat_subrayada.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_ys2.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_ys2.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\layout_activity_show.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\layout\\activity_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_sgn_password.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\sgn_password.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\layout_activity_panorama_next.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\layout\\activity_panorama_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_m4.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_m4.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_back_main.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\back_main.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_sgn_icon.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\sgn_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_img_map1.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\img_map1.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_m7.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_m7.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_ysluga.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_ysluga.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_tri_2.jpg.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\tri_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_img.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\drawable_btn_add.png.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\drawable\\btn_add.png"
+    },
+    {
+        "merged": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\IT_05\\.gradle\\daemon\\7.5\\com.example.amgalic.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
